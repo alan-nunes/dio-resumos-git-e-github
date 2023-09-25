@@ -1,5 +1,5 @@
 
-# DIO | Resumos GIT e Github
+# DIO | Resumos GIT e Githu
 
 Repositório para armazenar resumos sobre GIT e Githube  [Digital Innovation One](https://github.com/alan-nunes/repo-remote)
 
